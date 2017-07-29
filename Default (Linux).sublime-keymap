@@ -1,4 +1,5 @@
 [
+  // Install TrailingSpaces package: https://github.com/SublimeText/TrailingSpaces
   { "keys": ["ctrl+k", "ctrl+d"], "command": "delete_trailing_spaces" },
   { "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
   { "keys": ["ctrl+tab"], "command": "next_view" },
